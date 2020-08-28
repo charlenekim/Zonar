@@ -1,5 +1,6 @@
-import json
 from flask import Flask
+#import View
+
 app = Flask(__name__)
 
 @app.route("/")
